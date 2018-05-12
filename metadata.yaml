@@ -1,0 +1,42 @@
+_repo: A-Bibliographical-Antiquarian-and-Picturesque-Tour-in-France-and-Germany-Volume-Two_17107
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dibdin, Thomas Frognall
+    aliases:
+    - Rusticus, Mercurius
+    - Wolfe, Reginalde
+    - Wolfe, Reginald
+    - Dibdin, T. F. (Thomas Frognall)
+    birthdate: 1776
+    deathdate: 1847
+    gutenberg_agent_id: '6546'
+    url: http://www.gutenberg.org/2009/agents/6546
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Frognall_Dibdin
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2005-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Libraries -- France'
+- !lcc 'Z'
+- !lcsh 'Germany -- Description and travel'
+- !lcsh 'Manuscripts -- Germany'
+- !lcsh 'Libraries -- Germany'
+- !lcsh 'Manuscripts -- France'
+- !lcsh 'France -- Description and travel'
+- !lcsh 'Bibliography'
+- !lcsh 'Literary journeys -- Germany'
+- !lcsh 'Literary journeys -- France'
+title: A Bibliographical, Antiquarian and Picturesque Tour in France and Germany,
+  Volume Two
+url: http://www.gutenberg.org/ebooks/17107
